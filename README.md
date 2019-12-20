@@ -1,2 +1,2 @@
 # repository
-My first git repo
+General repo for data scrapping, and quick analysis
